@@ -29,7 +29,7 @@ Il existe 5 types de messages qui sont les suivantes :
 
 ### Fonctionnement du syslog
 
-Syslog possède un fichier de configuration « syslong.conf » qui est stocké dans le répertoire /etc. Ce fichier est sous la forme facility.priorité : 
+Syslog possède un fichier de configuration « syslong.conf » qui est stocké dans le répertoire /etc. Ce fichier est sous la forme "facility.priorité   /var/log/fichierlog.log": 
 
 >La Priorité indique la criticité du message généré par un programme.
 
