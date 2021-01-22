@@ -1,6 +1,6 @@
 ﻿# cybersecurite
 
-Projet politique de sécurisation authentification : <a href="https://github.com/Darylabrador/cybersecurite_projets"> voir le dépot </a>
+Projet de cybersecurité : <a href="https://github.com/Darylabrador/cybersecurite_projets"> voir le dépot </a>
 
 ## Liste des sujets veilles
 
