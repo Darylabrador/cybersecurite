@@ -5,3 +5,6 @@ https://www.oracle.com/fr/cloud/siem-gestion-evenements-securite.html
 
 Un SOC, Security Operations Center est le fait de superviser et administré la sécurité d'un système d'information. 
 Le SOC doit veiller à ce que les incidents de sécurité potentiels soient correctement identifiés, analysés, défendus, enquêtés et signalés.
+
+OSINT : 
+Remonter sur l'identité numérique d'une personne grâce au différente brique laissé sur internet (linkedin, facebook, mail, photo etc)
