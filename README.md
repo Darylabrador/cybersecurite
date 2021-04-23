@@ -19,3 +19,5 @@ Projet de cybersecurité : <a href="https://github.com/Darylabrador/cybersecurit
 
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/main/syslog.md"> Syslog de linux </a>
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/main/siem.md"> SIEM </a>
+- <a href="https://github.com/Darylabrador/cybersecurite/blob/main/SOC.md"> SOC </a>
+- <a href="https://github.com/Darylabrador/cybersecurite/blob/main/OSINT.md"> OSINT </a>
