@@ -1,6 +1,6 @@
 # Responsible disclosure
 
-## Qu'est-ce que le "Responsible disclosure ?
+## Qu'est-ce que le "Responsible disclosure" ?
 
 En sécurité informatique, la divulgation responsable est la pratique consistant à publier la vulnérabilité d'un logiciel ou d'un matériel informatique en laissant un délai aux développeurs afin de réparer les erreurs dans leurs produits.
 
