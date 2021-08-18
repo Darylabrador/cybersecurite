@@ -4,7 +4,7 @@ Common Vulnerabilities and Exposures (CVE) est une liste publique de failles de 
 
 Les CVE aident les professionnels à coordonner leurs efforts visant à hiérarchiser et résoudre les vulnérabilités, et ainsi renforcer la sécurité des systèmes informatiques.
 
-## Mise à jour de la liste CVE
+## Format
 
 La liste CVE est supervisée par l'organisme MITRE et subventionnée par la CISA (Cybersecurity and Infrastructure Security Agency), qui fait partie du Département de la Sécurité intérieure des États-Unis.
 
