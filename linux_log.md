@@ -43,6 +43,7 @@ En utilisant la commande :
 - tail -n 5 "chemin_dacces" => logs
 - grep -r "adresse ip" /var/log => affiche toutes nos traces dans les logs qu'importe le fichier
 - grep -rl "adresse ip" /var/log => récupérer tous les noms de fichiers qui ont gardé nos traces
+- grep -r -m 20 "adresse ip" /var/log => affichage d'un nombre limité de la sortie
 
 
 ### Chercher au moins 1 trace de vos attaques grâce aux logs concernant l'activité 'blog'
