@@ -116,3 +116,8 @@ grep -rl 10.9.1.54 /var/log
 /var/log/apache2/access.log
 /var/log/journal/a48aa1b7b471491790e2497ef04d3ae8/system.journal
 /var/log/auth.log
+
+
+### Sources :
+
+- https://wiki.debian-fr.xyz/Consulter_les_logs_:_quoi,_o%C3%B9_et_comment_chercher_%3F
