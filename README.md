@@ -29,3 +29,7 @@ Projet de cybersecurité : <a href="https://github.com/Darylabrador/cybersecurit
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/main/SUID_linux.md"> SUID sous Linux </a>
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/main/CVE.md"> CVE </a>
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/main/linux_log.md"> linux_log </a>
+
+### CVE
+
+- <a href="https://github.com/Darylabrador/cybersecurite/blob/main/CVE-2021-22908.md"> CVE-2021-22908 </a>
