@@ -16,53 +16,37 @@
 
 ## Liste des activités 
 
-<br>
-
 ### ToDoList GraphQL 
 
-<br>
 
 - <a href="https://github.com/Darylabrador/cybersecurite/tree/Excels/ToDoList_GraphQL/excels"> Revue de sécurité </a>
 
 
-<br>
-
 ### OSINT 
-
-<br>
 
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/Excels/OSINT/excels/OSINT.xlsx"> OSINT </a>
 
-<br>
 
 ### NMAP 
 
-<br>
 
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/Excels/NMAP"> Consolidation des connaissances NMAP </a>
 
-<br>
 
 ### SPLUNK 
 
-<br>
 
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/Excels/Splunk/excels/relation_entre_activite_bpsplunk_et_referentiel.xlsx"> Activité découverte de splunk </a>
 
-<br>
 
 ### Windows 
 
-<br>
 
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/Excels/Windows/blueprint/excels/Blueprint.xlsx"> Blueprint </a>
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/Excels/Windows/investigation_apres_attaque/excels/investigation_apres_attaque_sur_machine_window.xlsx"> Investigation après attaque </a>
 
-<br>
-
 ### Wordpress 
 
-<br>
 
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/Excels/Securite_wordpress/excels/Securite_CMS.xlsx"> Rendu test sécurité wordpress </a>
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/Excels/Securite_wordpress/excels/secu_wordpress.pdf"> Démarche test sécurité wordpress </a>
