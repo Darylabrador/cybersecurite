@@ -18,5 +18,5 @@
 
 Vous pouvez retrouver ci-dessous les informations suivantes :
 
-- <a href=""> Le lexique globale </a>
-- <a href=""> Les outils connus jusqu'à présent </a>
+- <a href="https://github.com/Darylabrador/cybersecurite/tree/recapitulatif/Lexique"> Le lexique globale </a>
+- <a href="https://github.com/Darylabrador/cybersecurite/tree/recapitulatif/Outils"> Les outils connus jusqu'à présent </a>
