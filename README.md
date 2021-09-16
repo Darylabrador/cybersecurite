@@ -32,4 +32,5 @@ Projet de cybersecurité : <a href="https://github.com/Darylabrador/cybersecurit
 
 ### CVE
 
-- <a href="https://github.com/Darylabrador/cybersecurite/blob/main/CVE-2021-22908.md"> CVE-2021-22908 </a>
+- <a href="https://github.com/Darylabrador/cybersecurite/blob/main/CVE/CVE-2021-22908.md"> CVE-2021-22908 - Exploit partages SMB </a>
+- <a href="https://github.com/Darylabrador/cybersecurite/blob/main/CVE/CVE-2021-40444.md"> CVE-2021-40444 - Exploit remote code from Microsoft Office </a>
