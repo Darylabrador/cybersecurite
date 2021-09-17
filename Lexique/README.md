@@ -430,11 +430,17 @@ Les mémoires tampons sont des régions de stockage de mémoire qui contiennent 
 ### Mystification
 La création d'un faux site web ou d'une fausse adresse courriel pour qu'il ou qu'elle semble provenir d'une source légitime. Une adresse courriel peut même comprendre votre propre nom ou celui d'une de vos connaissances. Il est ainsi difficile de savoir si l'expéditeur est bien réel.
 
+<br>
 
+#### MITM
+"Man in the middle" c'est le fait qu'un attaquant puisse analyser les paquets qui traversent un réseau et ensuite intéragir en altérant ses paquets.
 
+<br>
 
+### malware
+Il s’agit d’un logiciel indésirable installé dans votre système sans votre consentement. Il peut se cacher dans un code légitime, dans des applications ou alors se reproduire sur internet. Les malwares attaquent donc par le biais d’une vulnérabilité qui télécharge par la suite un logiciel malveillant.
 
-
+<br>
 
 
 
@@ -629,9 +635,12 @@ Arnaque faites par le biais d'internet
 ### spamming
 Envoi de courrier electronique non sollicité
 
+<br>
 
+### Social engineering
+C'est le fait de manipuler psychologiquement une personne à des fins malveillants.
 
-
+<br>
 
 
 
