@@ -179,7 +179,7 @@ Le retrait non autorisé de données ou de fichiers d'un système par un intrus.
 
 
 ### Exploit
-Une manière définie de transgresser la sécurité d'un système informatique par l'entremise d'une vulnérabilité.
+Une manière définie de transgresser la sécurité d'un système informatique par l'utilisation d'une vulnérabilité.
 
 <br>
 
@@ -197,7 +197,8 @@ Une méthode employée par les cybercriminels pour obtenir de l'information pers
 
 <br>
 
-
+### Escalade privilège
+C'est le fait d'utiliser une faille afin de récupérer des privilèges administrateur.
 
 
 
