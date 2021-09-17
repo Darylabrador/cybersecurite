@@ -1,4 +1,4 @@
-# Lexique connu jusqu'à aujourd'hui
+# Lexique connu jusqu'à ce aujourd'hui
 
 -------
 
