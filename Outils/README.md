@@ -10,6 +10,7 @@
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/recapitulatif/Outils/nmap.md"> nmap </a>
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/recapitulatif/Outils/dirb.md"> dirb </a>
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/recapitulatif/Outils/wpscan.md"> wpscan </a>
+- <a href="https://github.com/Darylabrador/cybersecurite/blob/recapitulatif/Outils/osint.md"> osint </a>
 
 ## Recherche d'exploit
 
@@ -26,6 +27,11 @@
 ## Ressource web
 
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/recapitulatif/Outils/crackstation.md"> crackstation </a>
+- <a href="https://github.com/Darylabrador/cybersecurite/blob/recapitulatif/Outils/icann.md"> Icann Lookup </a>
+- <a href="https://github.com/Darylabrador/cybersecurite/blob/recapitulatif/Outils/whois.md"> Whois </a>
+- <a href="https://github.com/Darylabrador/cybersecurite/blob/recapitulatif/Outils/viewdns.md"> ViewDNS </a>
+- <a href="https://github.com/Darylabrador/cybersecurite/blob/recapitulatif/Outils/archive_org.md"> Archive.org </a>
+- <a href="https://github.com/Darylabrador/cybersecurite/blob/recapitulatif/Outils/nerdydata.md"> NerdyData.com </a>
 
 ## Outils natives
 
