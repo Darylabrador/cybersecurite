@@ -178,9 +178,11 @@ Le détournement de domaine est un type de fraude en ligne dont l’objectif est
 
 <br>
 
+### Déréférencement du pointeur NULL
+Le déréférencement consiste à accéder à la valeur à partir d’un certain emplacement mémoire sur lequel pointe ce pointeur. 
 
 
-
+<br>
 
 
 
@@ -538,7 +540,10 @@ Porte d'accès à un système informatique qui permet le contournement des méca
 
 <br>
 
+### Path transversal
+C'est le fait d'exploité une vulnérabilité qui permet une lecture de fichier arbitraire sur le serveur.
 
+<br>
 
 
 
