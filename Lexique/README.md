@@ -156,7 +156,10 @@ Entité malveillante qui utilise Internet pour profiter d’une vulnérabilité 
 
 <br>
 
+### cgi-bin
+Un CGI-bin est un dossier utilisé pour héberger des scripts qui interagiront avec un navigateur Web pour fournir des fonctionnalités à une page Web ou à un site Web. Common Gateway Interface (CGI) est une ressource permettant de prendre en charge l'utilisation de scripts dans la conception Web.
 
+<br>
 
 
 
