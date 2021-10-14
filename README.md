@@ -57,3 +57,6 @@
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/main/CVE/CVE-2021-34527.md"> CVE-2021-34527 - Print nightmare </a>
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/main/CVE/CVE-2021-22908.md"> CVE-2021-22908 - Exploit partages SMB </a>
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/main/CVE/CVE-2021-40444.md"> CVE-2021-40444 - Exploit remote code from Microsoft Office </a>
+- <a href="https://github.com/Darylabrador/cybersecurite/blob/main/CVE/CVE-2021-41524.md"> CVE-2021-41524 - Denied of service Apache HTTP Server 2.4.49 </a>
+- <a href="https://github.com/Darylabrador/cybersecurite/blob/main/CVE/CVE-2021-41773.md"> CVE-2021-41773 - Path traversal attack Apache HTTP 2.4.49  </a>
+- <a href="https://github.com/Darylabrador/cybersecurite/blob/main/CVE/CVE-2021-42013.md"> CVE-2021-42013 - Remote code execution in Apache HTTP Server 2.4.49 </a>
