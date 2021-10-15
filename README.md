@@ -60,3 +60,4 @@
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/main/CVE/CVE-2021-41524.md"> CVE-2021-41524 - Denied of service Apache HTTP Server 2.4.49 </a>
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/main/CVE/CVE-2021-41773.md"> CVE-2021-41773 - Path traversal attack Apache HTTP 2.4.49  </a>
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/main/CVE/CVE-2021-42013.md"> CVE-2021-42013 - Remote code execution in Apache HTTP Server 2.4.49 </a>
+- <a href="https://github.com/Darylabrador/cybersecurite/blob/main/CVE/CVE-2021-40469.md"> CVE-2021-40469 - Windows DNS Server Remote Code Execution Vulnerability  </a>
