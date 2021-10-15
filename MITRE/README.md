@@ -18,9 +18,9 @@ MITRE peut être associer à la liste des CVE (vulnérabilités et expositions c
 
 De Mitre.org : 
 
-```
+<br>
+
 "Chez MITRE, nous résolvons les problèmes pour un monde plus sûr. Grâce à nos centres de R&D financés par le gouvernement fédéral et à nos partenariats public-privé, nous travaillons à travers le gouvernement pour relever les défis de la sécurité, de la stabilité et du bien-être de notre nation. "
-```
 
 <br>
 
