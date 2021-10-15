@@ -35,6 +35,8 @@ MITRE ATT&CK® est une base de connaissances accessible à l'échelle mondiale s
 
 Le cadre ATT&CK® s'est développé et étendu au fil des ans. Une expansion notable était que le cadre se concentrait uniquement sur la plate-forme Windows mais s'est étendu pour couvrir d'autres plates-formes, telles que macOS et Linux. Le cadre est largement contribué par de nombreuses sources, telles que les chercheurs en sécurité et les rapports de renseignements sur les menaces. Notez que ce n'est pas seulement un outil pour les équipes bleues. L'outil est également utile pour un testeur d'intrusion et/ou un red teamer.
 
+<img src="https://github.com/Darylabrador/cybersecurite/blob/Excels/MITRE/images/ATT_CK.PNG">
+
 <br>
 
 - <a href="https://attack.mitre.org/"> https://attack.mitre.org/ </a>
@@ -47,6 +49,8 @@ Le cadre ATT&CK® s'est développé et étendu au fil des ans. Une expansion not
 <br>
 
 Le MITRE Cyber ​​Analytics Repository (CAR) est une base de connaissances d'analyse développée par MITRE sur la base du modèle d'adversaire MITRE ATT&CK®. CAR définit un modèle de données qui est exploité dans ses représentations de pseudocode, mais inclut également des implémentations directement ciblées sur des outils spécifiques (par exemple, Splunk, EQL) dans ses analyses. En ce qui concerne la couverture, CAR se concentre sur la fourniture d'un ensemble d'analyses validées et bien expliquées, en particulier en ce qui concerne leur théorie et leur justification de fonctionnement.
+
+<img src="https://github.com/Darylabrador/cybersecurite/blob/Excels/MITRE/images/CAR.PNG">
 
 <br>
 
@@ -70,7 +74,9 @@ Shield est une base de connaissances de défense active que MITRE développe pou
 
 <br>
 
-Shield Active Defense est similaire à la matrice ATT&CK®, mais les tactiques et techniques qui nous sont fournies nous permettent de piéger et/ou d'engager (avec) un adversaire actif au sein du réseau. Par exemple, nous pouvons planter des informations d'identification leurres sur une ressource et surveiller si/quand les informations d'identification du compte sont utilisées ailleurs dans le réseau. En faisant cela, nous sommes alertés de la présence de l'adversaire et offre l'opportunité de se renseigner sur ses outils et tactiques. Les informations recueillies peuvent être classées comme des renseignements sur les menaces
+Shield Active Defense est similaire à la matrice ATT&CK®, mais les tactiques et techniques qui nous sont fournies nous permettent de piéger et/ou d'engager (avec) un adversaire actif au sein du réseau. Par exemple, nous pouvons planter des informations d'identification leurres sur une ressource et surveiller si/quand les informations d'identification du compte sont utilisées ailleurs dans le réseau. En faisant cela, nous sommes alertés de la présence de l'adversaire et offre l'opportunité de se renseigner sur ses outils et tactiques. Les informations recueillies peuvent être classées comme des renseignements sur les menaces.
+
+<img src="https://github.com/Darylabrador/cybersecurite/blob/Excels/MITRE/images/shield_active_defense.PNG">
 
 <br>
 
@@ -84,6 +90,8 @@ Shield Active Defense est similaire à la matrice ATT&CK®, mais les tactiques e
 <br>
 
 Les plans d'émulation sont un guide étape par étape sur la façon d'imiter le groupe de menaces spécifique. Si l'un des membres de la C-Suite demandait : « comment nous en sortirions-nous si APT29 nous frappait ? » On peut facilement y répondre en se référant aux résultats de l'exécution du plan d'émulation.
+
+<img src="https://github.com/Darylabrador/cybersecurite/blob/Excels/MITRE/images/emulations_plan.PNG">
 
 <br>
 
@@ -103,6 +111,8 @@ Les plans d'émulation sont un guide étape par étape sur la façon d'imiter le
 Threat Intelligence (TI) ou Cyber ​​Threat Intelligence (CTI) est l'information, ou TTP, attribuée à l'adversaire. En utilisant les renseignements sur les menaces, en tant que défenseurs, nous pouvons prendre de meilleures décisions concernant la stratégie défensive. Les grandes entreprises peuvent avoir une équipe interne dont l'objectif principal est de collecter des informations sur les menaces pour d'autres équipes au sein de l'organisation, en plus d'utiliser des informations sur les menaces déjà disponibles. 
 
 Certaines de ces informations sur les menaces peuvent être open source ou via un abonnement auprès d'un fournisseur, tel que CrowdStrike. En revanche, de nombreux défenseurs portent plusieurs chapeaux (rôles) au sein de certaines organisations, et ils doivent consacrer du temps à leurs autres tâches pour se concentrer sur les renseignements sur les menaces. Pour répondre à ces derniers, nous travaillerons sur un scénario d'utilisation d'ATT&CK® pour la veille sur les menaces. L'objectif du renseignement sur les menaces est de rendre l'information exploitable.
+
+<img src="https://github.com/Darylabrador/cybersecurite/blob/Excels/MITRE/images/threat_intelligence.PNG">
 
 <br>
 
