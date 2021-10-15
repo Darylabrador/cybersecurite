@@ -47,16 +47,25 @@ Connu aussi comme DDoS (pour Distributed Denial of Service). Attaque par laquell
 
 <br>
 
+### ATT&CK
+Adversarial Tactics, Techniques, and Common Knowledge Framework. C'est une base de connaissances accessible à l'échelle mondiale sur les tactiques et techniques de l'adversaire, basée sur des observations du monde réel.
 
+<br>
 
+### AEP : ATT&CK Emulation Plans
+Les plans d'émulation sont un guide étape par étape sur la façon d'imiter le groupe de menaces spécifique. Si l'un des membres de la C-Suite demandait : « comment nous en sortirions-nous si APT29 nous frappait ? » On peut facilement y répondre en se référant aux résultats de l'exécution du plan d'émulation.
 
+<br>
 
+### APT : Advanced Persistent Threat
+Advanced Persistent Threat : Cela peut être considéré comme une équipe/un groupe (groupe menaçant), ou même un pays (groupe État-nation), qui se livre à des attaques à long terme contre des organisations et/ou des pays.
 
+<br>
 
+### ATT&CK® and Threat Intelligence
+Threat Intelligence (TI) ou Cyber ​​Threat Intelligence (CTI) est l'information, ou TTP, attribuée à l'adversaire. En utilisant les renseignements sur les menaces, en tant que défenseurs, nous pouvons prendre de meilleures décisions concernant la stratégie défensive. Les grandes entreprises peuvent avoir une équipe interne dont l'objectif principal est de collecter des informations sur les menaces pour d'autres équipes au sein de l'organisation, en plus d'utiliser des informations sur les menaces déjà disponibles. 
 
-
-
-
+<br>
 
 -------
 
@@ -161,6 +170,10 @@ Un CGI-bin est un dossier utilisé pour héberger des scripts qui interagiront a
 
 <br>
 
+### CAR
+Cyber Analytics Repository Knowledge Base. CAR définit un modèle de données qui est exploité dans ses représentations de pseudocode, mais inclut également des implémentations directement ciblées sur des outils spécifiques (par exemple, Splunk, EQL) dans ses analyses.
+
+<br>
 
 
 
@@ -251,6 +264,9 @@ C'est le fait d'utiliser une faille afin de récupérer des privilèges administ
 ## F
 
 <br>
+
+### FMX
+Fort Meade Experiment
 
 <br>
 
@@ -680,7 +696,10 @@ C'est le fait de manipuler psychologiquement une personne à des fins malveillan
 
 <br>
 
+### SHIELD ACTIVE DEFENSE
+Shield est une base de connaissances de défense active que MITRE développe pour capturer et organiser ce que nous apprenons sur la défense active et l'engagement de l'adversaire.
 
+<br>
 
 
 -------
@@ -691,6 +710,13 @@ C'est le fait de manipuler psychologiquement une personne à des fins malveillan
 
 <br>
 
+### TTP
+
+Tactics, Techniques, and Procedures :
+- La Tactique est le but ou l'objectif de l'adversaire.
+- La Technique est la façon dont l'adversaire atteint le but ou l'objectif.
+- La procédure est la façon dont la technique est exécutée.
+
 <br>
 
 
@@ -703,6 +729,7 @@ C'est le fait de manipuler psychologiquement une personne à des fins malveillan
 
 
 
+<br>
 
 -------
 
