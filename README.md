@@ -36,9 +36,9 @@
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/main/Vocabulaires/CVE.md"> CVE </a>
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/main/Vocabulaires/responsible_disclosure.md"> Responsible disclosure </a>
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/main/Vocabulaires/terminologie_cybersecurite.md"> Terminologie cybersecurite </a>
-- <a href="https://github.com/Darylabrador/cybersecurite/blob/main/Vocabulaires/xdr.md"> XDR : Extended Detection and Response </a>
-- <a href="https://github.com/Darylabrador/cybersecurite/blob/main/Vocabulaires/mdr.md"> MDR : Managed Detection Response </a>
-- <a href="https://github.com/Darylabrador/cybersecurite/blob/main/Vocabulaires/edr.md"> EDR : Endpoint Detection Response </a>
+- <a href="https://github.com/Darylabrador/cybersecurite/blob/main/Vocabulaires/XDR.md"> XDR : Extended Detection and Response </a>
+- <a href="https://github.com/Darylabrador/cybersecurite/blob/main/Vocabulaires/MDR.md"> MDR : Managed Detection Response </a>
+- <a href="https://github.com/Darylabrador/cybersecurite/blob/main/Vocabulaires/EDR.md"> EDR : Endpoint Detection Response </a>
 <br>
 
 
