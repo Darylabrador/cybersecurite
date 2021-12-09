@@ -248,9 +248,10 @@ Une méthode employée par les cybercriminels pour obtenir de l'information pers
 ### Escalade privilège
 C'est le fait d'utiliser une faille afin de récupérer des privilèges administrateur.
 
+<br>
 
-
-
+### EDR : Endpoint Detection Response
+Une solution EDR permet à une entreprise de se protéger à la fois contre les attaques connues (ex : un virus) mais aussi inconnues, en analysant des comportements suspects vis-à-vis des terminaux.
 
 
 
@@ -270,8 +271,10 @@ Fort Meade Experiment
 
 <br>
 
+### MDR : Managed Detection Response
+MDR est un outil de détection et de réponse aux points de terminaison (EDR). Il surveille, détecte et répond à distance aux menaces détectées au sein de votre organisation. Les informations pertinentes sur les menaces, les analyses avancées et les données médico-légales sont transmises à des analystes humains, qui effectuent un triage des alertes et déterminent la réponse appropriée pour réduire l'impact et le risque d'incidents positifs. Enfin, grâce à une combinaison de capacités humaines et machine, la menace est supprimée et le point de terminaison affecté est restauré dans son état pré-infecté.
 
-
+<br>
 
 
 
@@ -817,7 +820,10 @@ De nombreux processeurs XML plus anciens ou mal configurés évaluent les réfé
 
 <br>
 
+### XDR : Extended Detection and Response
+Le XDR aide les équipes de sécurité à résoudre certains problèmes de visibilité des menaces en centralisant, normalisant et corrélant les données de sécurité provenant de sources multiples. Il offre une visibilité plus complète, par exemple, en utilisant les données du réseau pour surveiller les endpoints vulnérables (non gérés) qui ne peuvent être vus par les outils EDR. Il analyse les données provenant de plusieurs sources (e-mails, endpoints, serveurs, réseaux, flux cloud…) pour valider les alertes, ce qui réduit les faux-positifs et le volume global des alertes. Cette corrélation d’indicateurs provenant de multiples sources permet à l’XDR d’améliorer l’efficacité des équipes de sécurité.
 
+<br>
 
 
 
