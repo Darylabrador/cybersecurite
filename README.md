@@ -36,7 +36,9 @@
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/main/Vocabulaires/CVE.md"> CVE </a>
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/main/Vocabulaires/responsible_disclosure.md"> Responsible disclosure </a>
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/main/Vocabulaires/terminologie_cybersecurite.md"> Terminologie cybersecurite </a>
-
+- <a href="https://github.com/Darylabrador/cybersecurite/blob/main/Vocabulaires/xdr.md"> XDR </a>
+- <a href="https://github.com/Darylabrador/cybersecurite/blob/main/Vocabulaires/mdr.md"> MDR </a>
+- <a href="https://github.com/Darylabrador/cybersecurite/blob/main/Vocabulaires/edr.md"> EDR </a>
 <br>
 
 
@@ -61,3 +63,8 @@
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/main/CVE/CVE-2021-41773.md"> CVE-2021-41773 - Path traversal attack Apache HTTP 2.4.49  </a>
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/main/CVE/CVE-2021-42013.md"> CVE-2021-42013 - Remote code execution in Apache HTTP Server 2.4.49 </a>
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/main/CVE/CVE-2021-40469.md"> CVE-2021-40469 - Windows DNS Server Remote Code Execution Vulnerability  </a>
+
+### GENERALE
+
+<br>
+
