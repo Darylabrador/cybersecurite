@@ -55,3 +55,9 @@
 ### MITRE
 
 - <a href="https://github.com/Darylabrador/cybersecurite/tree/Excels/MITRE"> Rendu Mitre </a>
+
+<br>
+
+## Powerpoint de présentation
+
+- <a href="https://github.com/Darylabrador/cybersecurite/tree/Excels/0-PRESENTATION"> Présentations powerpoint des activités </a>

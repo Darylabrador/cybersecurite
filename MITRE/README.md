@@ -26,14 +26,13 @@ De Mitre.org :
 
 ## ATT&CK Framework
 
-
 <br>
 
-MITRE ATT&CK® est une base de connaissances accessible à l'échelle mondiale sur les tactiques et techniques de l'adversaire, basée sur des observations du monde réel.
+MITRE ATT&CK® est une base de connaissances accessible à l'échelle mondiale sur les tactiques et techniques de l'adversaire, basée sur des observations du monde réel. Auparavant, le cadre se concentrait uniquement sur la plate-forme Windows mais s'est étendu pour couvrir d'autres plates-formes, telles que macOS et Linux. 
+
+On retrouve une multitude de contributeurs, telles que les chercheurs en sécurité et les rapports de renseignements sur les menaces. On peut voir ATT&CK framework comme étant un outil pour les blueteam, les testeurs d'intrusions et les red team.
 
 <br>
-
-Le cadre ATT&CK® s'est développé et étendu au fil des ans. Une expansion notable était que le cadre se concentrait uniquement sur la plate-forme Windows mais s'est étendu pour couvrir d'autres plates-formes, telles que macOS et Linux. Le cadre est largement contribué par de nombreuses sources, telles que les chercheurs en sécurité et les rapports de renseignements sur les menaces. Notez que ce n'est pas seulement un outil pour les équipes bleues. L'outil est également utile pour un testeur d'intrusion et/ou un red teamer.
 
 <img src="https://github.com/Darylabrador/cybersecurite/blob/Excels/MITRE/images/ATT_CK.PNG">
 
@@ -48,7 +47,14 @@ Le cadre ATT&CK® s'est développé et étendu au fil des ans. Une expansion not
 
 <br>
 
-Le MITRE Cyber ​​Analytics Repository (CAR) est une base de connaissances d'analyse développée par MITRE sur la base du modèle d'adversaire MITRE ATT&CK®. CAR définit un modèle de données qui est exploité dans ses représentations de pseudocode, mais inclut également des implémentations directement ciblées sur des outils spécifiques (par exemple, Splunk, EQL) dans ses analyses. En ce qui concerne la couverture, CAR se concentre sur la fourniture d'un ensemble d'analyses validées et bien expliquées, en particulier en ce qui concerne leur théorie et leur justification de fonctionnement.
+Le MITRE Cyber ​​Analytics Repository (CAR) est une base de connaissances d'analyse développée par MITRE sur la base du modèle d'adversaire MITRE ATT&CK®. Les analyses CAR ont été développées pour détecter les comportements des adversaires dans ATT&CK. Le développement d'une analyse est basé sur les activités suivantes : 
+
+- identifier et hiérarchiser les comportements de l'adversaire à partir du modèle de l'adversaire ATT&CK 
+- identifier les données nécessaires pour détecter le comportement de l'adversaire
+- identification ou création d'un capteur pour collecter les données nécessaires 
+- la création effective de l'analytique pour détecter les comportements identifiés 
+
+CAR est destiné à être partagé avec les cyber-défenseurs dans toute la communauté.
 
 <img src="https://github.com/Darylabrador/cybersecurite/blob/Excels/MITRE/images/CAR.PNG">
 
@@ -70,11 +76,11 @@ Pour résumer, CAR est un endroit idéal pour trouver des analyses qui nous emm�
 
 <br>
 
-Shield est une base de connaissances de défense active que MITRE développe pour capturer et organiser ce que nous apprenons sur la défense active et l'engagement de l'adversaire. Dérivé de plus de 10 ans d'expérience dans l'engagement de l'adversaire, il couvre la gamme des considérations d'opportunités et d'objectifs de haut niveau, prêtes pour le CISO, aux discussions conviviales pour les praticiens sur les TTP disponibles pour les défenseurs.
+Shield est une base de connaissances de défense active en partant du point de vue du défenseur, on y retrouve les tactiques et les techniques de défense. Actuellement, Shield comprend huit tactiques défensives que les défenseurs peuvent utiliser pour atteindre leurs objectifs. Ces grandes catégories « parapluies » incluent canaliser, collecter, contenir, détecter, perturber, faciliter, légitimer et tester.
+
+Par exemple, nous pouvons mettre en place des informations d'identification leurres sur une ressource et surveiller si/quand les informations d'identification du compte sont utilisées ailleurs dans le réseau. En faisant cela, nous sommes alertés de la présence de l'adversaire et offre l'opportunité de se renseigner sur ses outils et tactiques. Les informations recueillies peuvent être classées comme des renseignements sur les menaces.
 
 <br>
-
-Shield Active Defense est similaire à la matrice ATT&CK®, mais les tactiques et techniques qui nous sont fournies nous permettent de piéger et/ou d'engager (avec) un adversaire actif au sein du réseau. Par exemple, nous pouvons planter des informations d'identification leurres sur une ressource et surveiller si/quand les informations d'identification du compte sont utilisées ailleurs dans le réseau. En faisant cela, nous sommes alertés de la présence de l'adversaire et offre l'opportunité de se renseigner sur ses outils et tactiques. Les informations recueillies peuvent être classées comme des renseignements sur les menaces.
 
 <img src="https://github.com/Darylabrador/cybersecurite/blob/Excels/MITRE/images/shield_active_defense.PNG">
 
@@ -89,7 +95,7 @@ Shield Active Defense est similaire à la matrice ATT&CK®, mais les tactiques e
 
 <br>
 
-Les plans d'émulation sont un guide étape par étape sur la façon d'imiter le groupe de menaces spécifique. Si l'un des membres de la C-Suite demandait : « comment nous en sortirions-nous si APT29 nous frappait ? » On peut facilement y répondre en se référant aux résultats de l'exécution du plan d'émulation.
+Les plans d'émulation sont un guide étape par étape sur la façon d'imiter le groupe de menaces spécifique. Le but de cette activité est de permettre aux défenseurs de tester plus efficacement leurs réseaux et leurs défenses en permettant aux équipes rouges de modéliser plus activement le comportement de l'adversaire. Cela fait partie d'un processus plus large pour aider à tester plus efficacement les produits et les environnements, ainsi qu'à créer des analyses pour les comportements ATT&CK plutôt que de détecter un indicateur de compromission (IOC) ou un outil spécifique.
 
 <img src="https://github.com/Darylabrador/cybersecurite/blob/Excels/MITRE/images/emulations_plan.PNG">
 
