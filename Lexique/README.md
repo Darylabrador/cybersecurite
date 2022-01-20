@@ -771,6 +771,12 @@ c'est le fait d'utiliser des composants non mise à jour en connaissant les fail
 
 <br>
 
+### Ver informatique
+
+Un ver informatique est un logiciel malveillant qui se reproduit sur plusieurs ordinateurs en utilisant un réseau informatique comme Internet. Il a la capacité de se dupliquer une fois qu'il a été exécuté. Contrairement au virus, le ver se propage sans avoir besoin de se lier à d'autres programmes exécutables.
+
+<br>
+
 
 
 
