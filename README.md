@@ -65,6 +65,7 @@
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/main/CVE/CVE-2021-40469.md"> CVE-2021-40469 - Windows DNS Server Remote Code Execution Vulnerability  </a>
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/main/CVE/CVE-2021-41246.md"> CVE-2021-41246 - Auth0 Express OpenID Connect à 2.5.1 Session Cookie authentification faible  </a>
 - <a href="https://github.com/Darylabrador/cybersecurite/blob/main/CVE/CVE-2021-38509.md"> CVE-2021-38509 - Mozilla Firefox/Firefox ESR/Thunderbird Javascript Alert elévation de privilèges  </a>
+- <a href="https://github.com/Darylabrador/cybersecurite/blob/main/CVE/CVE-2022-21907.md"> CVE-2022-21907 - Vulnérabilité d’exécution de code à distance dans la pile du protocole HTTP  </a>
 
 ### GENERALE
 
