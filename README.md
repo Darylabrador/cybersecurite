@@ -61,3 +61,8 @@
 ## Powerpoint de présentation
 
 - <a href="https://github.com/Darylabrador/cybersecurite/tree/Excels/0-PRESENTATION"> Présentations powerpoint des activités </a>
+
+
+### Cybersecurity lab
+
+- <a href="https://github.com/Darylabrador/cybersecurite/tree/Cybersecurity_lab"> Activité cybersecurity lab </a>
