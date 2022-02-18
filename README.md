@@ -16,8 +16,12 @@
 
 ## Liste des activités 
 
-### ToDoList GraphQL 
+### Certification
 
+
+- <a href="https://github.com/Darylabrador/cybersecurite/tree/Excels/0-Certification"> Compétences de la certification  </a>
+
+### ToDoList GraphQL 
 
 - <a href="https://github.com/Darylabrador/cybersecurite/tree/Excels/ToDoList_GraphQL/excels"> Revue de sécurité </a>
 
